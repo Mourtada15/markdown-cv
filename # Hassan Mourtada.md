@@ -1,4 +1,4 @@
-![Hassan Mourtada](profile.jpg)
+<img src="profile.jpg" alt="Hassan Mourtada" width="30%">
 
 # Hassan Mourtada
 
