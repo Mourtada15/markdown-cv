@@ -1,3 +1,5 @@
+![Hassan Mourtada](profile.jpg)
+
 # Hassan Mourtada
 
 ## Contact & Personal Information
