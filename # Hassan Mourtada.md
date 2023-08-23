@@ -1,4 +1,4 @@
-<img src="profile.jpg" alt="Hassan Mourtada" width="30%">
+<img src="profile.jpg" alt="Hassan Mourtada" width="20%">
 
 # Hassan Mourtada
 
